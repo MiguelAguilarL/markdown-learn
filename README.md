@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva diseñada para aprender la sintaxis básica de **Markdown** (tanto CommonMark como GitHub Flavored Markdown - GFM) de una manera sencilla, guiada y práctica.
 
-> **Web:** Pendiente de publicación (Próximamente en producción).
+> **[Visita la web :)](https://markdown-learn.vercel.app/)**
 
 ---
 
